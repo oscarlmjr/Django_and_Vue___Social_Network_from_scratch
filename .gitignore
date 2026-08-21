@@ -1,3 +1,10 @@
 .vscode/
 .git 
 .env
+
+!/Part_1/prints_Part_1/
+Part_2/
+Part_3/
+Part_4/
+Part_5/
+Part_15/
