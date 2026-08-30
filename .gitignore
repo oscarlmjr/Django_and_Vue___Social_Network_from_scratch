@@ -3,8 +3,8 @@
 .env
 
 Part_1/
-!/Part_2/prints_Part_2/
+Part_2/
 Part_3/
-Part_4/
+!/Part_4/prints_Part_4/
 Part_5/
 Part_15/
